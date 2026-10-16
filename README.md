@@ -12,4 +12,4 @@ Testes de Hipóteses: Diferença no tempo de espera entre operadores mais e meno
 
 Conclusões: Evidência de desigualdade de produtividade entre operadores e tempo de espera varia significativamente entre chamadas. 
 
-Sugestões:Adicionar mais operadores em horários de pico, implementar retorno automático em filas altas, distribuir melhor as chamadas para reduzir perdas e criar alertas em tempo real para chamadas perdidas.
+Sugestões: Adicionar mais operadores em horários de pico, implementar retorno automático em filas altas, distribuir melhor as chamadas para reduzir perdas e criar alertas em tempo real para chamadas perdidas.
